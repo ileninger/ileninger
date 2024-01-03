@@ -1,8 +1,9 @@
-
 <h1 allign = "left"> 👋 Hi, I’m Ivan Leninger (ileninger) </h1>
+
+- 🔭 I’m currently working on finishing education at Edunova for C# backend developer
 - 👀 I'm interested in backend development
 - 🌱 I’m currently learning C# and SQL
-- 📫 Contact me at ileninger@live.com 
+- 📫 Reach me: ileninger@live.com 
 
 
 <!---
